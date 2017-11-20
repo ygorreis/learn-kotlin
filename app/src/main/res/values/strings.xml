@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Learn Kotlin</string>
     <string name="title_activity_about">AboutActivity</string>
+
+
+    <string name="insert_email">Email</string>
+    <string name="insert_password">Password</string>
+    <string name="btn_signin">Sign In</string>
 </resources>
